@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background: linear-gradient(to right,rgba(1, 36, 1, 0.822), #bc5090);
+
+    }
+.container{
+    background-color:whitesmoke;
+    padding: 30px;
+    color:black;
+    text-align: center;
+    height: 500px;
+    width: 400px;
+    text-align: left;
+   }
+.input{
+    
+}

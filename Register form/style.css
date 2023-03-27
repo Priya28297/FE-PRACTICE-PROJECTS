@@ -1,0 +1,12 @@
+body{
+    background: linear-gradient(to right,#430b4b, #bc5090);
+}
+.container{
+    background-color:whitesmoke;
+    padding: 30px;
+    color:black;
+    text-align: center;
+    height: 500px;
+    width: 400px;
+   }
+
